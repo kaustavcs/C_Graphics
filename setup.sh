@@ -1,4 +1,4 @@
-echo "Kindly enter the root password to give the root permission:- "
+echo "Kindly enter the root password to give the root permission:-  "
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install libsdl2-2.0
